@@ -1,6 +1,5 @@
 
-![Logo](\src\assets\gym-app-logo2.png)
-
+![gym-app-logo](https://github.com/ryangmurphy/gym-app/assets/137011288/a9557327-75d3-457d-aed2-5b9b0e75e658)
 
 # Gym App Generator
 
