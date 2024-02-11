@@ -7,7 +7,6 @@ The Anime Gym Workout Generator is a user-friendly application designed to help 
 
 
 
-
 ## Tech Stack
 
 React, TailwindCSS
@@ -61,10 +60,12 @@ Type npm run dev and your are good to go!
 
 - More types of training styles
 
-- Add chatbot for any workout related questions
+- Add a chatbot for any workout-related questions
 
-
-
+## Screenshots
+![gymapp1](https://github.com/ryangmurphy/gym-app/assets/137011288/411e8144-a848-45da-aece-f7f460e2a89b)
+![gymapp2](https://github.com/ryangmurphy/gym-app/assets/137011288/2773b970-5656-40ac-8674-0fc2dd80b152)
+![gymapp3](https://github.com/ryangmurphy/gym-app/assets/137011288/c7b4a0e1-4951-49b1-8aae-1811444e8ce9)
 
 
 
